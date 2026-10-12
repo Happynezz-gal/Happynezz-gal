@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=1100&lines=Cybersecurity+Analyst;Director+of+Training+%40+Webstack+ICT+Global;Community+Manager+%40+MindTheGap+Anambra;ICANN+Anti-Phishing+Volunteer;Artificial+Intelligence+Advocate;Linux+Enthusiast;Ethical+Hacker+in+Training;Public+Speaker+and+Tech+Mentor;Forex+Trader+%26+Financial+Market+Analyst;Empowering+Africa+Through+Technology+and+Cybersecurity"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=1100&lines=Cybersecurity+Analyst;ICANN+AntiPhishing+Volunteer;Creative+Designer;Linux+Enthusiast;Ethical+Hacker+in+Training;Public+Speaker;+%26;Empowering+Africa+Through+Technology+and+Cybersecurity"
     alt="Happynezz Digital World professional roles"
   />
 </p>
@@ -32,7 +32,7 @@ I am passionate about using technology to solve problems, sharing knowledge, men
 - 🖥️ Exploring controlled cybersecurity labs and security research.
 - 🎓 Teaching and mentoring beginners interested in technology and cybersecurity.
 - 🌍 Passionate about helping young people develop relevant **digital skills**.
-- 🤖 Exploring the intersection of **Cybersecurity, Artificial Intelligence, and technology education**.
+- 🤖 Exploring the intersection of **Cybersecurity, Creativity, and technology education**.
 - 🐧 Continuously developing my **Linux** and practical computing skills.
 - 💡 Interested in **digital transformation, innovation, and community building**.
 
